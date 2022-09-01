@@ -1,0 +1,4 @@
+#Mon Aug 29 09:58:24 IST 2022
+base.0=/home/nadraj/Desktop/cordova_learn/trail 2/CordovaProject/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
